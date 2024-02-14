@@ -1,6 +1,8 @@
 export function App() {
   return (
     <section>
+
+
       <article>
         <h5>
           Ada King (1815–1852), Countess of Lovelace, Mathematician, Daughter of
@@ -12,6 +14,8 @@ export function App() {
         />
         <p>Author: Margaret Sarah Carpenter</p>
       </article>
+
+
       <article>
         <h5>We Can Do It!</h5>
         <img
@@ -20,6 +24,8 @@ export function App() {
         />
         <p>Author: J. Howard Miller</p>
       </article>
+
+
       <article>
         <h5>La joven de la perla</h5>
         <img
@@ -28,14 +34,18 @@ export function App() {
         />
         <p>Author: Johannes Vermeer</p>
       </article>
+
+
       <article>
         <h5>Autoretrato con mono</h5>
         <img
-          alt='four'
+          alt='fourth'
           src='https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWYyNTMxM2UyZGUyZC5qcGciLCJyZXNpemUsODAwIl19.-dJRrycn7cE7szQihpGdLGy0woa-4K0SSluurohZlwE.jpg'
         />
         <p>Author: Frida Kahlo</p>
       </article>
+
+
     </section>
   )
 }
