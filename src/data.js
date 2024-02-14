@@ -11,13 +11,13 @@ export const secondPicture = {
   author: 'J. Howard Miller',
   paintingName: 'We Can Do It! ',
 }
-export const thirdPicutre = {
+export const thirdPicture = {
   imgURL:
     'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/800px-Meisje_met_de_parel.jpg',
   author: 'Johannes Vermeer',
   paintingName: 'La joven de la perla',
 }
-export const fourthPicutre = {
+export const fourthPicture = {
   imgURL:
     'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWYyNTMxM2UyZGUyZC5qcGciLCJyZXNpemUsODAwIl19.-dJRrycn7cE7szQihpGdLGy0woa-4K0SSluurohZlwE.jpg',
   author: 'Frida Kahlo',
